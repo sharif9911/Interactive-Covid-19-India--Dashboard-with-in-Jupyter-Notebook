@@ -31,7 +31,7 @@ Step 5: Until Step 4, all the setup to deploy our Dashboard
 
 		Open Anaconda navigator and launch Jupyter Notebook.
 
-		From the menu, select the "covid-19_Dashboard.ipynb" file and open it.
+		From the menu, select the "covid-19 Dashboard.ipynb" file and open it.
 
 		Now, from the Notebook menu, select "Cell" and then "Run all cells".
 
