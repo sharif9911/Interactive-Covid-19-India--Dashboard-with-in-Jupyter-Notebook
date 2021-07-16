@@ -39,7 +39,7 @@ Step 5: Until Step 4, all the setup to deploy our Dashboard
 
 		Note: To access the Source code, navigate to the last cell and click on "toggle user/developer mode".
 
-Feel free to ping me on linkedin handle incase of any queries: www.linkedin.com/in/sharief9911.
+Feel free to ping me on linkedin handle, incase of any queries: www.linkedin.com/in/sharief9911.
 
 Contributors:
 Dadu Sharief (GRIET)
