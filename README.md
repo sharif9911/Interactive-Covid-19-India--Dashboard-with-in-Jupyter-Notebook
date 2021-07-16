@@ -42,6 +42,6 @@ Step 5: Until Step 4, all the setup to deploy our Dashboard
 Feel free to ping me on linkedin handle, incase of any queries: www.linkedin.com/in/sharief9911.
 
 Contributors:
-Dadu Sharief (GRIET)
-Raghavendar G (GRIET)
-Mallesh D (GRIET)
+Dadu Sharief (GRIET), 
+Raghavendar G (GRIET), 
+Mallesh D (GRIET).
